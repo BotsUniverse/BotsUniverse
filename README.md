@@ -2,7 +2,7 @@
   <img src="logo.svg" width="30%" min-width="100px"/>
 </div>
 
-# Bot Universe
+# [Bots Universe](https://botsuniverse.github.io)
 
 > ### A Parallel Universe Where Telegram Bots Live
 
@@ -60,6 +60,8 @@ We have a lot of bots waiting for you to use them. They are amazing and always <
   </tr>
   <tr>
     <td>Secratorybot</td>
-    <td>Hey there! My name is Secratory - I'm here to help you manage your groups! Hit /help to find out more about how to use me For efficent Group Manageing My future updates will be put into This Channel - @Secratoryupdates . I am made by <a href="http://telegram.me/venilabots">Rohithaditya</a></td>
+    <td>
+      Hey there! My name is Secratory - I'm here to help you manage your groups! Hit <code>/help</code> to find out more about how to use me For efficent Group Manageing My future updates will be put into This Channel - <code>@Secratoryupdates</code> . I am made by 
+      <a href="http://telegram.me/venilabots">Rohithaditya</a></td>
   </tr>
 </table>
